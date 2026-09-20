@@ -14,3 +14,4 @@
 
 ## 技术栈
 纯 HTML + CSS + JavaScript，不用任何框架（手写基本功）
+ 环境：Windows + VS Code + Git
